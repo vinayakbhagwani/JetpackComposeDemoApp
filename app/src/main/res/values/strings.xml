@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JetpackComposeDemoApp</string>
+    <string name="user_name">User name</string>
+</resources>
